@@ -8,4 +8,9 @@
 2. **Server Stats Project**  
    Bash script to analyze CPU, memory, disk usage, and top processes.  
    **Project URL:** https://roadmap.sh/projects/server-stats  
-   **Folder Link:** https://github.com/Angana10/Roadmap.sh_devops_projects/tree/main/Server_Performance_Stats 
+   **Folder Link:** https://github.com/Angana10/Roadmap.sh_devops_projects/tree/main/Server_Performance_Stats
+
+3. **Log Archive Tool Project**  
+   Bash script to analyze CPU, memory, disk usage, and top processes.  
+   **Project URL:** https://roadmap.sh/projects/log-archive-tool  
+   **Folder Link:** https://github.com/Angana10/Roadmap.sh_devops_projects/tree/main/Log_Archive_Tool
