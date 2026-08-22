@@ -1,4 +1,4 @@
-# Server Stats Project
+# Log Archive Tool Project
 
 This project demonstrates a Bash script (`log_archive.sh`) that archives system logs by compressing them into timestamped `.tar.gz` files and storing them in a dedicated directory.
 
