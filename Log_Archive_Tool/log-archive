@@ -1,0 +1,20 @@
+#!/bin/bash
+
+log_directory=$1
+archive_dir="./archived_logs"
+
+#Create archive directory if it doesn't exist
+mkdir -p "$archive_dir"
+
+#Generate timestamps
+DATE=$(date +%m%d%y)
+echo $DATE
+TIME=$(date +%H%M%S)
+echo $TIME
+
+#Archivre logs with timestamped filename
+tar -czf "$archive_dir/logs_archive_${DATE}_${TIME}.tar.gz" "${log_directory}"
+
+#Show the archive files
+ls -ltr "$archived_dir"
+
