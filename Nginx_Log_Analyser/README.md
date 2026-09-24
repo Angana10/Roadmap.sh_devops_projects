@@ -20,7 +20,7 @@ This project demonstrates a Bash script (`log_analyser.sh`) that writes a simple
 
 ## Project URL
 
-https://roadmap.sh/projects/log-archive-tool
+https://roadmap.sh/projects/nginx-log-analyser
 
 ---
 
