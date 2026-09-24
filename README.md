@@ -10,7 +10,9 @@ Each solution is organized into its own folder with a dedicated README and imple
 **1. Basic Dockerfile Project**
 
 Prints "Hello, Captain!" using a minimal Dockerfile.
+
 **Project URL:** https://roadmap.sh/projects/basic-dockerfile
+
 **Folder Link:** https://github.com/Angana10/Roadmap.sh_devops_projects/tree/main/Basic_Dockerfile
 
 **2. Server Stats Project**
